@@ -28,7 +28,11 @@ Saat ini saya juga terus memperluas kemampuan dengan mempelajari React, Node.js,
   <img src="https://img.shields.io/badge/Docker-learning-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker (pembelajaran)">
 </p>
 
-**Backend utama:** Laravel/PHP · **Database:** MySQL, PostgreSQL · **Mobile:** Flutter · **Web dan tools yang sedang dipelajari:** React, Node.js, Docker.
+**Backend utama:** Laravel/PHP · **Database:** MySQL, PostgreSQL · **Mobile:** Flutter · **Web dan tools yang sedang dipelajari:** React, Node.js, Docker ·  **Produktivitas:** AI-assisted development.
+
+### Pemanfaatan AI
+
+Saya memanfaatkan AI sebagai alat bantu dalam proses belajar dan pengembangan software, seperti mengeksplorasi pendekatan implementasi, memahami dokumentasi, membantu debugging, menyusun dokumentasi, dan mempercepat pekerjaan rutin. Hasil dari AI tetap saya tinjau, uji, dan sesuaikan dengan kebutuhan aplikasi.
 
 ## Proyek dan pengalaman
 
